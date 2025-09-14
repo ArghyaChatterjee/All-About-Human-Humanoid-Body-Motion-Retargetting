@@ -1,2 +1,2 @@
 # All About Human Humanoid Motion Retargetting
-This is a repository for Human Humanoid Motion Retargetting for Humanoid Loco-Manipulation.
+This is a repository for Human Humanoid Body Motion Retargetting for Humanoid Loco-Manipulation.
