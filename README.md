@@ -9,7 +9,8 @@ This is a repository for Human Humanoid Body Motion Retargetting for Humanoid Lo
 
 # Methods
 - 2018
-  - Robust Real-Time Whole-Body Motion Retargeting from Human to Humanoid [[code]]() [[paper]](https://ieeexplore.ieee.org/abstract/document/8624943) [[website]]() [[video]]()  
+  - Robust Real-Time Whole-Body Motion Retargeting from Human to Humanoid [[code]]() [[paper]](https://ieeexplore.ieee.org/abstract/document/8624943) [[website]]() [[video]]()
+  - Real-time Whole-body Motion Retargeting for Simultaneous Walking and Upper-body Movements [[code]]() [[paper]]() [[website]]() [[video]](https://www.youtube.com/watch?v=9MZciDC1kbA)
 - 2019
   - Humanoid Whole-Body Movement Optimization from Retargeted Human Motions [[code]]() [[paper]](https://ieeexplore.ieee.org/document/9035070) [[website]]() [[video]](https://www.youtube.com/watch?v=rJZVrVAVLMs) 
 - 2020
