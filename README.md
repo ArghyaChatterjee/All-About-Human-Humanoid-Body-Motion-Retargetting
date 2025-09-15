@@ -20,6 +20,7 @@ This is a repository for Human Humanoid Body Motion Retargetting for Humanoid Lo
 - 2024
   - Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[code]]() [[paper]]() [[website]](https://human2humanoid.com/)
   - OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [[code]](https://github.com/LeCAR-Lab/human2humanoid) [[paper]]() [[website]](https://omni.human2humanoid.com/)
+  - Omnigrasp: Grasping Diverse Objects with Simulated Humanoids [[code]](https://github.com/ZhengyiLuo/Omnigrasp) [[paper]]() [[website]]() 
   - Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior [[code]](https://github.com/ahrilab/MR-HuBo) [[paper]](https://arxiv.org/pdf/2409.13208) [[website]](https://sites.google.com/view/mr-hubo/) 
 - 2025
   - GMR: General Motion Retargeting [[code]](https://github.com/YanjieZe/GMR) [[paper]]() [[website]]()
